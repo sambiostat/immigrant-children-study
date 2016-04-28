@@ -1,7 +1,7 @@
 **************************************************;
 **Script:CILS_ALL_ZJC;
 **Author:Jinchun Zhang(samanthazhangjinchun@gmail.com);
-**Description: This is the complete scripts for CILS data analyze, including some draft or wrong analyze methods. ;
+**Description: This is the complete scripts for CILS data analyze, including some draft or inappropriate analyze methods. ;
 **				For script used for the final analyze, please refer the script at the same folder named: 'CILS_ZJC';
 **Latest Updated 2015/08/10;
 *************************************************;
